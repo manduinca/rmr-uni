@@ -1,0 +1,21 @@
+Project,Station_2
+Location,Cerros UNI (Bajo Tanque antiguo - Camino)
+Date,26/06/2025
+Rock_Type,
+
+Record_No,Distance_m,Structure_Type,Dip_Direction_degrees,Dip_degrees,Spacing_mm,Persistence_m,Termination,Aperture_mm,Infilling_Type,Infilling_Thickness,Roughness,Waviness,Weathering,Groundwater,Number_Joints,Observations
+1,0,J,307,90,3,3,3,1,1,2,4,2,3,1,,
+2,0.49,F,190,96,2,3,3,4,4,2,4,2,3,1,,
+3,0.54,F,265,27,5,2,1,2,1,1,4,2,2,1,,322° / 83°
+4,1.00,J,239,95,5,1,1,4,4,2,4,1,1,1,,
+5,1.00,J,348,84,2,3,3,1,4,2,4,1,1,1,,
+6,1.20,J,270,75,5,3,1,4,1,1,4,2,1,1,,
+7,1.22,J,268,74,5,2,1,3,1,1,4,2,2,1,,
+8,1.36,J,230,89,5,3,1,2,4,2,4,2,2,1,,
+9,1.40,J,271,61,3,2,1,4,4,2,4,2,3,1,,
+10,2.03,J,137,73,4,2,2,3,1,1,4,2,1,1,,
+11,2.10,J,355,65,4,2,1,1,1,1,4,2,1,1,,
+12,2.15,J,171,96,2,1,2,3,1,1,4,1,1,1,,
+13,2.62,J,319,28,4,2,1,3,4,2,4,1,1,1,,
+14,2.82,J,181,86,3,2,1,3,5,4,4,2,1,1,,
+15,3.06,J,285,76,3,1,1,3,1,1,4,2,1,1,, 

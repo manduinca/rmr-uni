@@ -1,0 +1,50 @@
+VARIABLE,CODE,DESCRIPTION
+Structure_Type,J,Joint
+Structure_Type,F,Fault
+Structure_Type,E,Split
+Spacing,1,<20mm
+Spacing,2,20-60mm
+Spacing,3,60-200mm
+Spacing,4,200-600mm
+Spacing,5,>600mm
+Persistence,1,<1m
+Persistence,2,1-3m
+Persistence,3,3-10m
+Persistence,4,10-20m
+Persistence,5,>20m
+Termination,1,Other discontinuity
+Termination,2,Intact rock
+Termination,3,Continues
+Aperture,1,Closed
+Aperture,2,Very tight <0.1
+Aperture,3,Tight 0.1-1.0
+Aperture,4,Open 1-5
+Aperture,5,Very open >5
+Infilling_Type,1,Clean
+Infilling_Type,2,Quartz almost
+Infilling_Type,3,Clay
+Infilling_Type,4,Oxides
+Infilling_Type,5,Paniza
+Infilling_Thickness,1,None
+Infilling_Thickness,2,Hard < 5mm
+Infilling_Thickness,3,Hard < 5mm
+Infilling_Thickness,4,Soft <5mm
+Infilling_Thickness,5,Soft >5mm
+Roughness,1,Very rough
+Roughness,2,Rough
+Roughness,3,Moderately rough
+Roughness,4,Slightly rough
+Roughness,5,Smooth or striated
+Waviness,1,Planar
+Waviness,2,Slightly wavy
+Waviness,3,Wavy
+Weathering,1,Fresh
+Weathering,2,Slightly weathered
+Weathering,3,Moderately weathered
+Weathering,4,Highly weathered
+Weathering,5,Decomposed
+Groundwater,1,Dry
+Groundwater,2,Damp
+Groundwater,3,Wet
+Groundwater,4,Dripping
+Groundwater,5,Flowing 

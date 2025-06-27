@@ -1,0 +1,21 @@
+Project,Station_1
+Location,Cerros UNI (atras de Pegado FIGMI)
+Date,25/06/2025
+Rock_Type,
+
+Record_No,Distance_m,Structure_Type,Dip_Direction_degrees,Dip_degrees,Spacing_mm,Persistence_m,Termination,Aperture_mm,Infilling_Type,Infilling_Thickness,Roughness,Waviness,Weathering,Groundwater,Number_Joints,Observations
+1,0,J,248,57,4,1,1,3,3,3,4,2,1,1,1,
+2,0.15,J,225,67,4,1,1,3,5,5,4,2,1,1,4,
+3,0.30,J,239,65,5,1,1,4,1,1,4,2,1,1,4,
+4,0.52,J,250,61,5,1,1,2,5,5,4,2,1,1,4,
+5,0.63,J,215,65,5,1,1,3,5,5,4,2,1,1,4,
+6,0.78,J,234,56,3,2,1,2,1,1,4,1,1,1,4,
+7,1.14,J,221,58,3,1,1,3,4,3,4,2,1,1,3,
+8,1.52,J,232,54,3,1,1,4,3,3,4,1,1,1,1,
+9,1.60,E,080,24,3,1,1,1,1,1,4,1,1,1,1,
+10,1.78,J,252,60,4,2,3,1,1,1,4,2,2,1,1,
+11,1.96,J,271,60,5,2,1,2,1,1,4,2,1,1,3,
+12,2.09,J,315,58,4,1,1,4,1,1,4,2,1,1,3,
+13,2.00,J,310,66,3,1,1,2,1,1,4,2,1,1,3,
+14,2.11,J,221,60,4,1,1,2,1,1,4,2,1,1,3,
+15,2.14,J,321,61,5,2,1,3,5,4,4,1,1,1,3,Familias 4 

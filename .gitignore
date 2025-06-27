@@ -12,10 +12,10 @@ ENV/
 .ipynb_checkpoints
 
 # Data files
-*.csv
+#*.csv
 *.xlsx
-*.json
-data/
+#*.json
+#data/
 
 # IDE
 .vscode/
